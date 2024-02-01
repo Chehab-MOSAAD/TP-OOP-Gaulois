@@ -1,1 +1,1 @@
-# TP2-Gaulois
+# Java Object Oriented Programming Project  called "Gaulois"
